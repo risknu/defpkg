@@ -1,0 +1,2 @@
+# defpkg
+Python package
