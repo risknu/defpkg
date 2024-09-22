@@ -1,0 +1,18 @@
+[project]
+name = "defpkg"
+version = "2024.1.0"
+authors = [
+  { name="risknu", email="risknu.go@gmail.com" },
+]
+description = "a simple library for creating interesting things in your code"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License 2.0",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/risknu/defpkg"
+Issues = "https://github.com/risknu/defpkg/issues"
